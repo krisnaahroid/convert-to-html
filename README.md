@@ -17,12 +17,15 @@ How to :
 [02:47:23] Starting 'serve'...
 [02:47:23] Finished 'serve' after 177 ms
 [Browsersync] Access URLs:
+
  --------------------------------------
        Local: http://localhost:3000
     External: http://192.168.43.62:3000
+    
  --------------------------------------
           UI: http://localhost:3001
  UI External: http://192.168.43.62:3001
+
  --------------------------------------
 [Browsersync] Serving files from: ./public
 
