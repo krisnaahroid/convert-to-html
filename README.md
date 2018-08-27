@@ -29,4 +29,4 @@ How to :
  --------------------------------------
 [Browsersync] Serving files from: ./public
 
-4. open on your mobile using ip http://192.xxx.xx.xx:3000
+4. open on your mobile using ip (LAN) http://192.xxx.xx.xx:3000 (example)
